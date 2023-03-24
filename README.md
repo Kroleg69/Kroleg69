@@ -2,8 +2,6 @@
 
 Я **Олег Сидоров**, начинающий QA-Engineer.
 
-### Вот что я делал
-
 ### Сертификаты Нетологии
 
 * Ручное тестирование веб-приложений [Сертификат](https://drive.google.com/file/d/1SHioW4LSgLNfCGteVydvT1jBvdit2-hX/view?usp=sharing)
